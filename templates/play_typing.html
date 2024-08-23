@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ポケモンタイピングゲーム</title>
+    <link rel="stylesheet" href="/static/css/play_typing.css">
+</head>
+<body>
+    <h1>Pokemon Typing</h1>
+    <div class="container">
+        <div id="inputSection">
+            <h2>ゲームタイトルを入力してください</h2>
+            <input type="text" id="versionInput" class="input-box" placeholder="例：sword-shield">
+            <button id="startButton">スタート</button>
+        </div>
+        <div id="resultSection" style="display: none;">
+            <h3>問題の作成が出来ました</h3>
+            <h3>スペースかエンターを押して開始します</h3>
+            <h3>レッツ タイピング～！</h3>
+            <p id="prompt">Press enter or space</p>
+        </div>
+        <div id="resultSection_2" style="display: none;">
+            <h2 id="displayTitle">無効なタイトルです</h2>
+            <div id="pokemonNameSection">
+                <span id="pokemonName">ポケモン名がここに表示されます</span>
+            </div>
+        </div>
+    </div>
+    <script src="/static/js/script.js"></script>
+</body>
+</html>
