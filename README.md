@@ -7,7 +7,10 @@ Pokemon APIを使用して英語ではありますが、ゲームタイトルを
 
 ## 使用するPokemon API
 
-- エンドポイント: `https://pokeapi.co/api/v2/version-group/{version_name}/`
+- エンドポイント: `https://pokeapi.co/api/v2/version-group/{version}/`
+- クエリパラメータ:
+  - `version` (必須): ポケモンバージョンの名前（例: `red`, `blue`, `gold`）
+  - `name`: ランダムに選ばれたポケモンの名前
 
 ## タイトル入力 (全てのタイトル[英語])
 ![/play_typing](https://github.com/user-attachments/assets/047c4beb-bcb0-4bae-bca6-0f1083ee7ea2)
