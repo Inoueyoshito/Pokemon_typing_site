@@ -8,7 +8,7 @@ Pokemon APIを使用して、ゲームタイトルを入力するとそのタイ
 
 - エンドポイント: `https://pokeapi.co/api/v2/version-group/{version}/`
 - クエリパラメータ:
-  - `version` (必須): ポケモンバージョンの名前（例: `red`, `blue`, `gold`）
+  - `version` (必須): ポケモンバージョンの名前（例: `red-blue`, `gold`, `x-y`, `sword-shield`）
   - `name`: ランダムに選ばれたポケモンの名前
 
 ## タイトル入力 (全てのタイトル[英語])
