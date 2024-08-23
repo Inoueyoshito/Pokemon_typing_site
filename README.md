@@ -1,3 +1,4 @@
 ## Pokemon_typing (ポケモンタイピング)
 
-![](https://user-images.githubusercontent.com/114024.png)
+![/play_typing](https://github.com/user-attachments/assets/047c4beb-bcb0-4bae-bca6-0f1083ee7ea2)
+
