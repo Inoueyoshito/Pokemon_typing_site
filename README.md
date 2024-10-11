@@ -17,5 +17,5 @@ Pokemon APIを使用して、ゲームタイトルを入力するとそのタイ
 ## 生成完了画面
 ![/play_typing](https://github.com/user-attachments/assets/32f8d5cf-c120-48c1-a184-01f1fb560be6)
 
-## 入力したタイトル, ランダム生成されたポケモン (typingすると色変更)
+## ホーム入力したタイトルで出るポケモンをランダム生成される (typingすると色変更)
 ![/play_typing](https://github.com/user-attachments/assets/196b56b5-e91b-4df3-8e4a-bbdfbc4cf2c3)
